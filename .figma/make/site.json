@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your company's profile with a professional web platform that highlights your mission, services, and team to engage clients and partners.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
